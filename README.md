@@ -11,7 +11,8 @@
 
 
 <p>
-  <img height="220vw" src="https://github-readme-stats.vercel.app/api/wakatime/?username=LeCyreaxYT&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&hide=lua&langs_count=8&theme=blueberry"/>    
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LeCyreaxYT)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
 
 
