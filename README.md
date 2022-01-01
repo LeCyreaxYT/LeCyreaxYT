@@ -6,7 +6,7 @@
 
 <img height="220vw" src="https://github-readme-stats.vercel.app/api?username=LeCyreaxYT&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&theme=blueberry" />
 
-<img height="220vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeCyreaxYT&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&layout=compact&hide=lua&langs_count=8&theme=blueberry"/>  
+<img height="220vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeCyreaxYT&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&hide=lua&langs_count=8&theme=blueberry"/>  
 </p>  
 
 
