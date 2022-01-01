@@ -10,6 +10,11 @@
 </p>  
 
 
+<p>
+  <img height="220vw" src="https://github-readme-stats.vercel.app/api/wakatime/?username=LeCyreaxYT&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&hide=lua&langs_count=8&theme=blueberry"/>    
+</p>
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
